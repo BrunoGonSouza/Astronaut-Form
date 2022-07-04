@@ -1,0 +1,85 @@
+body{
+    background-image: url('https://64.media.tumblr.com/54f4fe3c7c2d7c1b8a6b68eb9b62338f/tumblr_phbq2fElHS1ut1d6co1_540.gifv');
+    background-size: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.form{
+    border: 1px solid black;
+    width: 450px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: left;
+    color: white;
+    font-size: 13pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-top: 4px;
+}
+.titulo{
+    text-align: center;
+    color: orange;
+    font-size: 22pt;
+    margin-top: 5px;
+}
+.option_checkbox{
+    font-size: 12pt;
+}
+
+.bottom{
+    background-color: orange;
+    font-size: 15pt;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    width: 50%;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    font-weight: bold;
+}
+.bottom:hover{
+    background-color: rgb(110, 83, 17);
+    color: black;
+    font-weight: bold;
+}
+input{
+    border-radius: 10px;
+    border: none;
+    height: 20px;
+}
+.name{
+    width: 250px;
+    padding: 5px;
+}
+.email{
+    width: 250px;
+    padding: 5px;
+}
+.born{
+    font-size: 12pt;
+    width: 150px;
+    text-align: center;
+}
+.file>input{
+    padding-left: 5px;
+    border-radius: 10px;
+}
+.int{
+    font-size: 10pt;
+}
+.res{
+    font-size: 10pt;
+}
+.fis{
+    font-size: 10pt;
+}
+.edu{
+    font-size: 10pt;
+}
+.caixa{
+    width: 99%;
+}
